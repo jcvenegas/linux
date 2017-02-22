@@ -1,7 +1,7 @@
 VERSION = 4
 PATCHLEVEL = 9
 SUBLEVEL = 10
-EXTRAVERSION =
+EXTRAVERSION = container-numa-test
 NAME = Roaring Lionus
 
 # *DOCUMENTATION*
